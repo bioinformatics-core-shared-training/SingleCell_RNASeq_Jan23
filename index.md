@@ -1,8 +1,7 @@
 # Introduction to single-cell RNA-seq data analysis
 
-### 12, 19, 16 September 2022, 09:30 - 17:30
-#### Taught in person
-#### Bioinformatics Training Facility, University of Cambridge
+### 18 Jan, 25 Jan, 1 Feb || 09:30 - 17:30
+#### Online (Zoom)
 
 ![](UnivCambridge_ScRnaSeqIntro_Base/Images/uniOfCamCrukLogos.png)
 
@@ -18,7 +17,7 @@
 **Helpers:**
 
 * Hugo Tavares - Bioinformatics Training Facility, University of Cambridge
-* Stephane Ballereau - Cellular Genetics programme, Wellcome Sanger Institute
+
 
 ## Outline
 
@@ -56,34 +55,31 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 
 ## Schedule
 
-Please note that this is our first time teaching these materials back in person
-so we may adjust these times as the pace requires.
-
 ### Day 1
 
-* 09:30 - 09:40 **Welcome** <!-- Hugo -->
-* 09:40 - 10:00 **Introduction** - Hugo Tavares
-    + [Slides](https://docs.google.com/presentation/d/1P1XbrsX-_QEbXnq6R8oLV9diE4lgJV6ew6KGtBw_XuQ/edit?usp=sharing) 
-* 10:20 - 10:10 **Preamble**: data set and workflow - Adam Reid
+* 09:30 - 09:40 **Welcome** 
+* 09:40 - 10:25 **Introduction to Single Cell Technologies** - Katarzyna Kania
+    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/01_Introduction.pdf)
+* 10:25 - 10:30 - **Break**
+* 10:30 - 10:40 **Preamble**: data set and workflow - Adam Reid
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/02_PreambleSlides.html)
 * 10:40 - 12:00 Library structure, **cellranger** for alignment and cell calling - Adam Reid
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03_CellRangerSlides.html) \([pdf](scRNAseq/Slides/03_CellRangerSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/03_CellRanger.html)
 * 12.00 - 12.30 **Loupe browser demo** - Roderik Kortlever
   + [Slides](https://docs.google.com/presentation/d/1x80SzeBd8Hyueqvs5OsB48ivXkyO-KhCaY9BVnAs8D0/edit?usp=sharing)
-* 12:30 - 13:30 **lunch break**
-* 13.30 - 16.00 **QC and exploratory analysis** - Ashley Sawle
+* 12:30 - 13:30 **Lunch break**
+* 13:30 - 17:00 **QC and exploratory analysis** - Ashley Sawle
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.html)
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.Exercise.html)  
-* 16.00 - 17.00 **Introduction to Single Cell Technologies** Katarzyna Kania 
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/01_Introduction.pdf)
+
 
 ### Day 2
 
-* 09:30 - 09:40 **Recap** - Chandra Chilamakuri
+* 09:30 - 09:40 **Recap** - 
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/00_Day1_Recap.html) 
-* 09:40 - 12:30 **Normalisation** - Chandra Chilamakuri
+* 09:40 - 12:30 **Normalisation** - Adam Reid
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.html) \([pdf](scRNAseq/Slides/05_NormalisationSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation.html)    
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation_exercises.html)
@@ -92,14 +88,14 @@ so we may adjust these times as the pace requires.
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html)
 * 15:25 - 15:35 10 min **break**
-* 15:35 - 17:30 **Batch correction and data set integration** - Ashley Sawle
+* 15:35 - 17:30 **Batch correction and data set integration** - Abigail Edwards
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html) \([pdf](scRNAseq/Slides/07_DataIntegrationAndBatchCorrectionSlides.pdf)\) 
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_Dataset_Integration.html)
-    
+
 ### Day 3
 
 * 09:30 - 09:40 Recap <!-- ?? -->
-* 09:40 - 11:05 **Clustering** - Ashley Sawle
+* 09:40 - 11:05 **Clustering** - Adam Reid
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering.html)
 * 11:05 - 11:15 10 min **break** 
@@ -107,14 +103,18 @@ so we may adjust these times as the pace requires.
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_Cluster_Marker_Genes.html)
 * 12:30 - 13:30 **lunch break**
-* 13:30 - 17.30 **Differential Expression and Abundance Analysis** - Abigail Edwards
-
+* 13:30 - 17.30 **Differential Expression and Abundance Analysis** - Ashley Sawle
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_DifferentialAnalysis.html) 
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_Differencial_Exp_Ab.html) 
 
+
+## Extended Materials
+
+* Seurat
+
 ## Software Installation
 
-We will give you access to training computers with all the necessary software installed. 
+We will give you access to an online environment with all the necessary software installed. 
 However, if you want to run the analysis on your own computer, you can follow these instructions. 
 
 * Download and install R: https://cloud.r-project.org/
