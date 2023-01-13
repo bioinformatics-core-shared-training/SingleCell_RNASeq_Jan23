@@ -110,7 +110,9 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 
 ## Extended Materials
 
-* Seurat
+* **Seurat** walkthrough: 
+  * Part 1: [Data pre-processing](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/101-seurat_part1.html)
+  * Part 2: [Cell clustering and annotation](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/101-seurat_part2.html)
 
 ## Software Installation
 
