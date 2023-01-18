@@ -11,12 +11,15 @@
 * Adam Reid - The Gurdon Institute, University of Cambridge
 * Ashley Sawle - Bioinformatics Core, Cancer Research UK Cambridge Institute
 * Chandra Chilamakuri - Bioinformatics Core, Cancer Research UK Cambridge Institute
+* Hugo Tavares - Bioinformatics Training Facility, University of Cambridge
 * Katarzyna Kania - Genomics Core, Cancer Research UK Cambridge Institute
 * Roderik Kortlever - Dept. Biochemistry, University of Cambridge
 
 **Helpers:**
 
-* Hugo Tavares - Bioinformatics Training Facility, University of Cambridge
+* Jon Price - Biochemistry Department, University of Cambridge
+* Jiayin Hong - Biochemistry Department, University of Cambridge
+* Ulrika Yuan - Biochemistry Department, University of Cambridge
 
 
 ## Outline
@@ -59,6 +62,9 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 
 ### Day 1
 
+Training helpers: Jon Price, Abbi Edwards
+Training observers: Jiayin Hong, Ulrika Yuan
+
 * 09:30 - 09:40 **Welcome** 
 * 09:40 - 10:25 **Introduction to Single Cell Technologies** - Katarzyna Kania
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/01_Introduction.pdf)
@@ -79,6 +85,9 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 
 ### Day 2
 
+Training helpers: Jon Price, Ash Sawle
+Training observers: Jiayin Hong, Ulrika Yuan
+
 * 09:30 - 09:40 **Recap** - 
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/00_Day1_Recap.html) 
 * 09:40 - 12:30 **Normalisation** - Adam Reid
@@ -95,6 +104,9 @@ of gene expression data, such as TSNE, UMAP and violin plots.
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_Dataset_Integration.html)
 
 ### Day 3
+
+Training helpers: Chandra Chilamakuri
+Training observers: Jiayin Hong, Ulrika Yuan
 
 * 09:30 - 09:40 Recap <!-- ?? -->
 * 09:40 - 11:05 **Clustering** - Adam Reid
