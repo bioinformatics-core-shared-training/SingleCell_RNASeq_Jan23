@@ -62,7 +62,7 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 
 ### Day 1
 
-Training helpers: Jon Price, Abbi Edwards
+Training helpers: Jon Price, Abbi Edwards  
 Training observers: Jiayin Hong, Ulrika Yuan
 
 * 09:30 - 09:40 **Welcome** 
@@ -85,7 +85,7 @@ Training observers: Jiayin Hong, Ulrika Yuan
 
 ### Day 2
 
-Training helpers: Jon Price, Ash Sawle
+Training helpers: Jon Price, Ash Sawle  
 Training observers: Jiayin Hong, Ulrika Yuan
 
 * 09:30 - 09:40 **Recap** - 
@@ -105,7 +105,7 @@ Training observers: Jiayin Hong, Ulrika Yuan
 
 ### Day 3
 
-Training helpers: Chandra Chilamakuri
+Training helpers: Chandra Chilamakuri  
 Training observers: Jiayin Hong, Ulrika Yuan
 
 * 09:30 - 09:40 Recap <!-- ?? -->
