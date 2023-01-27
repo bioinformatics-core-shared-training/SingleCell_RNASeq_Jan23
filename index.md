@@ -113,11 +113,11 @@ Training observers: Jiayin Hong, Ulrika Yuan
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering.html)
 * 11:05 - 11:15 10 min **break** 
-* 11:15 - 12:30 **Identification of cluster marker genes** - Hugo Tavares
+* 11:15 - 12:30 **Identification of cluster marker genes** - Ashley Sawle
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_Cluster_Marker_Genes.html)
 * 12:30 - 13:30 **lunch break**
-* 13:30 - 17.30 **Differential Expression and Abundance Analysis** - Ashley Sawle
+* 13:30 - 17.30 **Differential Expression and Abundance Analysis** - Hugo Tavares
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_DifferentialAnalysis.html) 
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_Differencial_Exp_Ab.html) 
 
