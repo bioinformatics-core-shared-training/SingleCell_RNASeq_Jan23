@@ -118,8 +118,9 @@ Training observers: Jiayin Hong, Ulrika Yuan
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_Cluster_Marker_Genes.html)
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 17.30 **Differential Expression and Abundance Analysis** - Hugo Tavares
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_DifferentialAnalysis.html) 
-    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_Differencial_Exp_Ab.html) 
+    + [Slides](https://docs.google.com/presentation/d/11kaW_sxUQ8S_cRV9I0g6H7420E9frcZz36q9cwIlXTI/edit?usp=sharing) 
+    + [Demonstration - Differential Expression](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_Differential_Expression.html)
+    + [Demonstration - Differential Abundance](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/11_Differential_Abundance.html)
 
 
 ## Extended Materials
